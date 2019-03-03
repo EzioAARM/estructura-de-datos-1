@@ -1,0 +1,18 @@
+C:\Users\Axel\documents\visual studio 2015\Projects\Estructuras de Datos\miniSQL\bin\Debug\miniSQL.exe.config
+C:\Users\Axel\documents\visual studio 2015\Projects\Estructuras de Datos\miniSQL\bin\Debug\miniSQL.exe
+C:\Users\Axel\documents\visual studio 2015\Projects\Estructuras de Datos\miniSQL\bin\Debug\miniSQL.pdb
+C:\Users\Axel\documents\visual studio 2015\Projects\Estructuras de Datos\miniSQL\bin\Debug\Estructuras de Datos.dll
+C:\Users\Axel\documents\visual studio 2015\Projects\Estructuras de Datos\miniSQL\bin\Debug\Estructuras de Datos.pdb
+C:\Users\Axel\documents\visual studio 2015\Projects\Estructuras de Datos\miniSQL\obj\Debug\miniSQL.Form1.resources
+C:\Users\Axel\documents\visual studio 2015\Projects\Estructuras de Datos\miniSQL\obj\Debug\miniSQL.Properties.Resources.resources
+C:\Users\Axel\documents\visual studio 2015\Projects\Estructuras de Datos\miniSQL\obj\Debug\miniSQL.csproj.GenerateResource.Cache
+C:\Users\Axel\documents\visual studio 2015\Projects\Estructuras de Datos\miniSQL\obj\Debug\miniSQL.exe
+C:\Users\Axel\documents\visual studio 2015\Projects\Estructuras de Datos\miniSQL\obj\Debug\miniSQL.pdb
+C:\Users\Axel\documents\visual studio 2015\Projects\Estructuras de Datos\miniSQL\obj\Debug\miniSQL.csprojResolveAssemblyReference.cache
+G:\Proyectos\Estructuras de Datos\miniSQL\obj\Debug\miniSQL.csprojAssemblyReference.cache
+G:\Proyectos\Estructuras de Datos\miniSQL\obj\Debug\miniSQL.Form1.resources
+G:\Proyectos\Estructuras de Datos\miniSQL\obj\Debug\miniSQL.Properties.Resources.resources
+G:\Proyectos\Estructuras de Datos\miniSQL\obj\Debug\miniSQL.csproj.GenerateResource.cache
+G:\Proyectos\Estructuras de Datos\miniSQL\obj\Debug\miniSQL.csproj.CoreCompileInputs.cache
+G:\Proyectos\Estructuras de Datos\miniSQL\obj\Debug\miniSQL.exe
+G:\Proyectos\Estructuras de Datos\miniSQL\obj\Debug\miniSQL.pdb
