@@ -1,0 +1,11 @@
+C:\Users\Axel\documents\visual studio 2015\Projects\Estructuras de Datos\Laboratorio 03\bin\Debug\Laboratorio 03.exe.config
+C:\Users\Axel\documents\visual studio 2015\Projects\Estructuras de Datos\Laboratorio 03\bin\Debug\Laboratorio 03.exe
+C:\Users\Axel\documents\visual studio 2015\Projects\Estructuras de Datos\Laboratorio 03\bin\Debug\Laboratorio 03.pdb
+C:\Users\Axel\documents\visual studio 2015\Projects\Estructuras de Datos\Laboratorio 03\bin\Debug\Estructuras de Datos.dll
+C:\Users\Axel\documents\visual studio 2015\Projects\Estructuras de Datos\Laboratorio 03\bin\Debug\Estructuras de Datos.pdb
+C:\Users\Axel\documents\visual studio 2015\Projects\Estructuras de Datos\Laboratorio 03\obj\Debug\Laboratorio 03.csprojResolveAssemblyReference.cache
+C:\Users\Axel\documents\visual studio 2015\Projects\Estructuras de Datos\Laboratorio 03\obj\Debug\Laboratorio_03.Lab3.resources
+C:\Users\Axel\documents\visual studio 2015\Projects\Estructuras de Datos\Laboratorio 03\obj\Debug\Laboratorio_03.Properties.Resources.resources
+C:\Users\Axel\documents\visual studio 2015\Projects\Estructuras de Datos\Laboratorio 03\obj\Debug\Laboratorio 03.csproj.GenerateResource.Cache
+C:\Users\Axel\documents\visual studio 2015\Projects\Estructuras de Datos\Laboratorio 03\obj\Debug\Laboratorio 03.exe
+C:\Users\Axel\documents\visual studio 2015\Projects\Estructuras de Datos\Laboratorio 03\obj\Debug\Laboratorio 03.pdb

@@ -1,0 +1,24 @@
+C:\Users\Axel\documents\visual studio 2015\Projects\Estructuras de Datos\Laboratorio 04\bin\Debug\Laboratorio 04.exe.config
+C:\Users\Axel\documents\visual studio 2015\Projects\Estructuras de Datos\Laboratorio 04\bin\Debug\Laboratorio 04.exe
+C:\Users\Axel\documents\visual studio 2015\Projects\Estructuras de Datos\Laboratorio 04\bin\Debug\Laboratorio 04.pdb
+C:\Users\Axel\documents\visual studio 2015\Projects\Estructuras de Datos\Laboratorio 04\bin\Debug\Estructuras de Datos.dll
+C:\Users\Axel\documents\visual studio 2015\Projects\Estructuras de Datos\Laboratorio 04\bin\Debug\Estructuras de Datos.pdb
+C:\Users\Axel\documents\visual studio 2015\Projects\Estructuras de Datos\Laboratorio 04\obj\Debug\Laboratorio 04.csprojResolveAssemblyReference.cache
+C:\Users\Axel\documents\visual studio 2015\Projects\Estructuras de Datos\Laboratorio 04\obj\Debug\Laboratorio_04.frmArbolesBinarios.resources
+C:\Users\Axel\documents\visual studio 2015\Projects\Estructuras de Datos\Laboratorio 04\obj\Debug\Laboratorio_04.Properties.Resources.resources
+C:\Users\Axel\documents\visual studio 2015\Projects\Estructuras de Datos\Laboratorio 04\obj\Debug\Laboratorio 04.csproj.GenerateResource.Cache
+C:\Users\Axel\documents\visual studio 2015\Projects\Estructuras de Datos\Laboratorio 04\obj\Debug\Laboratorio 04.exe
+C:\Users\Axel\documents\visual studio 2015\Projects\Estructuras de Datos\Laboratorio 04\obj\Debug\Laboratorio 04.pdb
+G:\Proyectos\Estructuras de Datos\Laboratorio 04\bin\Debug\Laboratorio 04.exe.config
+G:\Proyectos\Estructuras de Datos\Laboratorio 04\bin\Debug\Laboratorio 04.exe
+G:\Proyectos\Estructuras de Datos\Laboratorio 04\bin\Debug\Laboratorio 04.pdb
+G:\Proyectos\Estructuras de Datos\Laboratorio 04\bin\Debug\Estructuras de Datos.dll
+G:\Proyectos\Estructuras de Datos\Laboratorio 04\bin\Debug\Estructuras de Datos.pdb
+G:\Proyectos\Estructuras de Datos\Laboratorio 04\obj\Debug\Laboratorio 04.csprojAssemblyReference.cache
+G:\Proyectos\Estructuras de Datos\Laboratorio 04\obj\Debug\Laboratorio_04.frmArbolesBinarios.resources
+G:\Proyectos\Estructuras de Datos\Laboratorio 04\obj\Debug\Laboratorio_04.Properties.Resources.resources
+G:\Proyectos\Estructuras de Datos\Laboratorio 04\obj\Debug\Laboratorio 04.csproj.GenerateResource.cache
+G:\Proyectos\Estructuras de Datos\Laboratorio 04\obj\Debug\Laboratorio 04.csproj.CoreCompileInputs.cache
+G:\Proyectos\Estructuras de Datos\Laboratorio 04\obj\Debug\Laboratorio 04.csproj.CopyComplete
+G:\Proyectos\Estructuras de Datos\Laboratorio 04\obj\Debug\Laboratorio 04.exe
+G:\Proyectos\Estructuras de Datos\Laboratorio 04\obj\Debug\Laboratorio 04.pdb
